@@ -6,3 +6,5 @@ cal.py was the primary version where I just tested the main calculation
 
 calc.py is the main version where it does the whole conversions and results
 
+Without an interface yet, outputs goes like:
+![image](https://github.com/TiagusFR/Lumen_Squarefoot_Calculator/assets/124302337/9296941c-5e86-44a7-bfd4-648722e5aa04)
